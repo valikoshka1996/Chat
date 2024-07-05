@@ -13,4 +13,4 @@
 ![image](https://github.com/valikoshka1996/Chat/assets/115169564/b27f4907-3cad-4a20-8e9b-60b05621010a)
 - Переписуємось.
 Якщо ви хочете розмістити цей чат на віддаленому сервері, зверніть увагу, що потрібно поміняти посилання на вебсокет в файлах chet-server.php та index.php
-В стрічках:     ws = new WebSocket('ws://localhost:2346') та $ws_worker = new Worker("websocket://0.0.0.0:2346"); встановість IP адрес (чи домен) Вашого веб серверу.
+В стрічках:   ``` ws = new WebSocket('ws://localhost:2346') ``` та ``` $ws_worker = new Worker("websocket://0.0.0.0:2346"); ``` встановість IP адрес (чи домен) Вашого веб серверу.
