@@ -12,8 +12,8 @@
 1. **Клонуйте репозиторій**:
 
     ```sh
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/valikoshka1996/Chat.git
+    cd Chat
     ```
 
 2. **Ініціалізуйте Composer**:
